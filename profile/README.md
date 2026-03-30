@@ -1,5 +1,5 @@
 ### Welcome to Codylon Studios!
 
-TaskMinder: https://taskminder.de
+Documentation for (almost) all projects: [https://codylon-studios.github.io/docs/](https://codylon-studios.github.io/docs/)
 
-Docs for Taskminder: https://docs.taskminder.de
+Have fun :)
